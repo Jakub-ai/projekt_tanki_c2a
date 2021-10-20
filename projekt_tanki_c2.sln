@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "projekt_tanki_c2", "projekt_tanki_c2\projekt_tanki_c2.vcxitems", "{21665668-F949-4FFA-BA8F-939D2E7DEC6F}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D72A3389-61B2-4723-9555-00183F3D7234}
+	EndGlobalSection
+EndGlobal
